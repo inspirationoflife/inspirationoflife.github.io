@@ -8,10 +8,7 @@ fieldset,legend {border:1px solid black;border-radius:3px}
 fieldset {margin-top:5px;margin-bottom:5px}
 figure {width:50%;margin-left:auto;margin-right:auto}
 figure img  {width:100%}
-figcaption {
-/* text-align:left; */
-color:#888888
-}
+figcaption {color:#888888}
 
 tac {display:block;text-align:center}
 .tac {text-align:center}
