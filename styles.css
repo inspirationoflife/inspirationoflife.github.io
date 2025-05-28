@@ -16,8 +16,8 @@ tac {display:block;text-align:center}
 .tac {text-align:center}
 tar {display:block;text-align:right}
 .tar {text-align:right}
-wspl,.wspl {white-space:pre-line}
-wspl {display:block}
+wspl {display:block;white-space:pre-line}
+.wspl {white-space:pre-line}
 
 [class=bsh] td {border-style:hidden}
 
