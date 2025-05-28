@@ -6,8 +6,10 @@ table {border-collapse:collapse}
 td,th {border:1px solid black}
 fieldset,legend {border:1px solid black;border-radius:3px}
 fieldset {margin-top:5px;margin-bottom:5px}
+/*
 figure {text-align:center}
 figure img {width:50%}
+*/
 figcaption {text-align:left}
 
 tac {display:block;text-align:center}
