@@ -15,6 +15,8 @@ tac {display:block;text-align:center}
 .tac {text-align:center}
 tar {display:block;text-align:right}
 .tar {text-align:right}
+hc {display:block;text-align:center;font-size:200%}
+hc2 {display:block;text-align:center;font-size:140%}
 wspl {display:block;white-space:pre-line}
 .wspl {white-space:pre-line}
 
@@ -78,8 +80,6 @@ ov,.ov {text-decoration-line:overline}
 subs {vertical-align:sub;font-size:70%}
 sups {vertical-align:super;font-size:70%}
 .f200 {font-size:200%}
-hc {display:block;text-align:center;font-size:200%}
-hc2 {display:block;text-align:center;font-size:140%}
 kn {font-kerning:none}
 deg90 {transform:rotate(90deg);display:inline-block}
 deg180 {transform:rotate(180deg);display:inline-block}
