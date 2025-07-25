@@ -12,11 +12,11 @@ figure img {width:100%}
 figcaption {color:#54595D}
 
 tac {display:block;text-align:center}
+hc {display:block;text-align:center;font-size:200%}
+hc2 {display:block;text-align:center;font-size:140%}
 .tac {text-align:center}
 tar {display:block;text-align:right}
 .tar {text-align:right}
-hc {display:block;text-align:center;font-size:200%}
-hc2 {display:block;text-align:center;font-size:140%}
 wspl {display:block;white-space:pre-line}
 .wspl {white-space:pre-line}
 
