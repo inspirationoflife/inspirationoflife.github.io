@@ -21,12 +21,13 @@ wspl {display:block;white-space:pre-line}
 .wspl {white-space:pre-line}
 .w100 {width:100%}
 .vat {vertical-align:top}
-.ii {height:2ex;vertical-align:middle}
 
 [class=bsh] td {border-style:hidden}
 [class=vat] td {vertical-align:top}
 
 /*
+.ii {height:2ex;vertical-align:middle}
+
 body,chem .katex {font-family:Cherry Swash,PT Mono,NAMU,Source Sans Pro,Noto Emoji,"M PLUS 1p",Noto Sans Japanese,Inter}
 body {word-break:break-word}
 .in {font-family:Inter}
