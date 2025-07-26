@@ -21,6 +21,7 @@ wspl {display:block;white-space:pre-line}
 .wspl {white-space:pre-line}
 
 [class=bsh] td {border-style:hidden}
+[class=vat] td {vertical-align:top}
 
 .vat {vertical-align:top}
 .w100 {width:100%}
