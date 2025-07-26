@@ -10,23 +10,21 @@ fieldset {margin-top:5px;margin-bottom:5px}
 figure {width:50%;margin-left:auto;margin-right:auto;margin-top:5px;margin-bottom:5px}
 figure img {width:100%}
 figcaption {color:#54595D}
-
-.ii {height:2ex;vertical-align:middle}
-
 tac {display:block;text-align:center}
 hc {display:block;text-align:center;font-size:200%;font-weight:bold}
 hc2 {display:block;text-align:center;font-size:140%;font-weight:bold}
-.tac {text-align:center}
 tar {display:block;text-align:right}
-.tar {text-align:right}
 wspl {display:block;white-space:pre-line}
+
+.tac {text-align:center}
+.tar {text-align:right}
 .wspl {white-space:pre-line}
+.w100 {width:100%}
+.vat {vertical-align:top}
+.ii {height:2ex;vertical-align:middle}
 
 [class=bsh] td {border-style:hidden}
 [class=vat] td {vertical-align:top}
-
-.vat {vertical-align:top}
-.w100 {width:100%}
 
 /*
 body,chem .katex {font-family:Cherry Swash,PT Mono,NAMU,Source Sans Pro,Noto Emoji,"M PLUS 1p",Noto Sans Japanese,Inter}
