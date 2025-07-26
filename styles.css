@@ -12,8 +12,8 @@ figure img {width:100%}
 figcaption {color:#54595D}
 
 tac {display:block;text-align:center}
-hc {display:block;text-align:center;font-size:200%}
-hc2 {display:block;text-align:center;font-size:140%}
+hc {display:block;text-align:center;font-size:200%;font-weight:bold}
+hc2 {display:block;text-align:center;font-size:140%;font-weight:bold}
 .tac {text-align:center}
 tar {display:block;text-align:right}
 .tar {text-align:right}
