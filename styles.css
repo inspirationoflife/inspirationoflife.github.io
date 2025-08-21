@@ -27,6 +27,11 @@ wspl {display:block;white-space:pre-line}
 [class=vat] td {vertical-align:top}
 
 @font-face {
+font-family:Cherry Swash;
+src:url('/directories/files/fonts/CherrySwash-Regular.ttf');
+unicode-range:U+41-7a;
+}
+@font-face {
 font-family:NAMU;
 src:url('/directories/files/fonts/NAMU-1750.ttf');
 unicode-range:U+0410-044F,U+0401,U+0451;
@@ -117,11 +122,6 @@ mi {transform:scaleX(-1);display:inline-block}
 .ma ::marker {content:counters(list-item,'.')' '}
 .ma li {list-style-position:inside}
 
-@font-face {
-font-family:Cherry Swash;
-src:url('/directories/files/fonts/CherrySwash-Regular.ttf');
-unicode-range:U+41-7a;
-}
 @font-face {
 font-family:PT Mono;
 src:url('/directories/files/fonts/PTMono-Regular.ttf');
