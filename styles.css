@@ -15,7 +15,7 @@ hc {display:block;text-align:center;font-size:200%;font-weight:bold}
 hc2 {display:block;text-align:center;font-size:140%;font-weight:bold}
 tar {display:block;text-align:right}
 wspl {display:block;white-space:pre-line}
-bu {display:block;user-select:none;background-color:#CFAD80;padding:5px;margin:5px;border-radius:5px;text-decoration:none;color:black;cursor:pointer}
+bu {display:block;user-select:none;background-color:#CFAD80;padding:5px;margin:5px;border-radius:5px;text-decoration:none;color:black;cursor:pointer;font-family:NAMU}
 
 .tac {text-align:center}
 .tar {text-align:right}
