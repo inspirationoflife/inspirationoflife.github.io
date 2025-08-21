@@ -7,7 +7,7 @@ table {border-collapse:collapse;margin-top:3px;margin-bottom:3px}
 td,th {border:1px solid black;padding:3px}
 fieldset,legend {border:1px solid black;border-radius:3px}
 fieldset {margin-top:5px;margin-bottom:5px}
-figure {width:40%;margin-left:auto;margin-right:auto;margin-top:5px;margin-bottom:5px}
+figure {width:40%;margin-left:auto;margin-right:auto;margin-top:3px;margin-bottom:3px}
 figure img {width:100%}
 figcaption {color:#54595D}
 tac {display:block;text-align:center}
