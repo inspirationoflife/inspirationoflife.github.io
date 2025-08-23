@@ -8,6 +8,23 @@
 <title>Хиддекель</title>
 </head>
 <body>
+<p id="typing-effect"></p>
+<script>
+    const textToType = "Этот текст печатается с помощью JavaScript!";
+    const element = document.getElementById("typing-effect");
+    let i = 0;
+    const speed = 100; // Скорость печати в миллисекундах
+
+    function typeWriter() {
+      if (i < textToType.length) {
+        element.innerHTML += textToType.charAt(i);
+        i++;
+        setTimeout(typeWriter, speed);
+      }
+    }
+
+    typeWriter(); // Запускаем функцию
+</script>
 <a href="https://commons.m.wikimedia.org/wiki/File:Symbol_of_Orthodoxy.svg"><img style="display:block;width:40%;margin-left:auto;margin-right:auto;margin-bottom:-10px" src="/files/images/Symbol_of_Orthodoxy.png"></a>
 <fieldset>
 <legend>
