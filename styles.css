@@ -22,10 +22,8 @@ fieldset:not(:has(> legend)) {}
 
 wspl {display:block;white-space:pre-line}
 .wspl {white-space:pre-line}
-
 .w100 {width:100%}
 .vat {vertical-align:top}
-
 
 /*
 .ii {height:2ex;vertical-align:middle}
