@@ -9,7 +9,6 @@ td,th {border:1px solid black;padding:3px}
 [class=bsh] td {border-style:hidden}
 [class=vat] td {vertical-align:top}
 
-toc {display:block;border:1px solid black;padding-left:7px;padding-right:7px;padding-bottom:3px}
 hc {display:block;text-align:center;font-size:200%;font-weight:bold}
 hc2 {display:block;text-align:center;font-size:140%;font-weight:bold}
 tac {display:block;text-align:center}
@@ -27,7 +26,6 @@ wspl {display:block;white-space:pre-line}
 .w100 {width:100%}
 .vat {vertical-align:top}
 
-.bu {display:block;user-select:none;background-color:#CFAD80;padding:5px;margin:5px;border-radius:5px;text-decoration:none;color:black;cursor:pointer;font-family:Cherry Swash,NAMU}
 
 @font-face {
 font-family:Cherry Swash;
@@ -41,6 +39,8 @@ unicode-range:U+0410-044F,U+0401,U+0451;
 }
 /*
 .ii {height:2ex;vertical-align:middle}
+toc {display:block;border:1px solid black;padding-left:7px;padding-right:7px;padding-bottom:3px}
+.bu {display:block;user-select:none;background-color:#CFAD80;padding:5px;margin:5px;border-radius:5px;text-decoration:none;color:black;cursor:pointer;font-family:Cherry Swash,NAMU}
 
 body,chem .katex {font-family:Cherry Swash,PT Mono,NAMU,Source Sans Pro,Noto Emoji,"M PLUS 1p",Noto Sans Japanese,Inter}
 body {word-break:break-word}
