@@ -25,10 +25,12 @@ wspl {display:block;white-space:pre-line}
 .w100 {width:100%}
 .vat {vertical-align:top}
 
+bu {user-select:contain;background-color:#08872B}
+/*
 tab {padding-left:3px;padding-right:3px;user-select:all;background-color:#000000;color:#FFFFFF;border-radius:3px;white-space:pre;display:block;overflow:scroll}
 tai {padding-left:3px;padding-right:3px;user-select:all;background-color:#000000;color:#FFFFFF;border-radius:3px;white-space:pre;display:inline}
 .bu {display:block;user-select:none;background-color:#CFAD80;padding:5px;margin:5px;border-radius:5px;text-decoration:none;color:black;cursor:pointer;font-family:Cherry Swash,NAMU}
-/* #08872B */
+*/
 
 /*
 .ii {height:2ex;vertical-align:middle}
