@@ -25,10 +25,13 @@ wspl {display:block;white-space:pre-line}
 .w100 {width:100%}
 .vat {vertical-align:top}
 
+tab {padding-left:3px;padding-right:3px;user-select:all;background-color:#000000;color:#FFFFFF;border-radius:3px;white-space:pre;display:block;overflow:scroll}
+tai {padding-left:3px;padding-right:3px;user-select:all;background-color:#000000;color:#FFFFFF;border-radius:3px;white-space:pre;display:inline}
+.bu {display:block;user-select:none;background-color:#CFAD80;padding:5px;margin:5px;border-radius:5px;text-decoration:none;color:black;cursor:pointer;font-family:Cherry Swash,NAMU}
+
 /*
 .ii {height:2ex;vertical-align:middle}
 toc {display:block;border:1px solid black;padding-left:7px;padding-right:7px;padding-bottom:3px}
-.bu {display:block;user-select:none;background-color:#CFAD80;padding:5px;margin:5px;border-radius:5px;text-decoration:none;color:black;cursor:pointer;font-family:Cherry Swash,NAMU}
 
 @font-face {
 font-family:Cherry Swash;
@@ -58,8 +61,6 @@ cf {display:block;border:1px solid black;background-color:#FAEBD7;padding:7px}
 .cs {font-family:Church Slavonic}
 ab {text-indent:10%;display:inline-block}
 .tac,[class=tac] td {text-align:center}
-tab {padding-left:3px;padding-right:3px;user-select:all;background-color:#000000;color:#FFFFFF;border-radius:3px;white-space:pre;display:block;overflow:scroll}
-tai {padding-left:3px;padding-right:3px;user-select:all;background-color:#000000;color:#FFFFFF;border-radius:3px;white-space:pre;display:inline}
 details summary[class~="bu"]::before {content:""}
 details[open] summary[class~="bu"]::before {content:""}
 .bi {background-repeat:no-repeat;background-size:100%}
