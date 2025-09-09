@@ -26,14 +26,16 @@ wspl {display:block;white-space:pre-line}
 .vat {vertical-align:top}
 
 ghb {user-select:all;white-space:nowrap;background-color:#08872B;color:white;padding-left:3px;padding-right:3px;border-radius:3px}
+.ii {vertical-align:middle}
+
 /*
 tab {padding-left:3px;padding-right:3px;user-select:all;background-color:#000000;color:#FFFFFF;border-radius:3px;white-space:pre;display:block;overflow:scroll}
 tai {padding-left:3px;padding-right:3px;user-select:all;background-color:#000000;color:#FFFFFF;border-radius:3px;white-space:pre;display:inline}
 .bu {display:block;user-select:none;background-color:#CFAD80;padding:5px;margin:5px;border-radius:5px;text-decoration:none;color:black;cursor:pointer;font-family:Cherry Swash,NAMU}
-*/
 
-/*
 .ii {height:2ex;vertical-align:middle}
+
+
 toc {display:block;border:1px solid black;padding-left:7px;padding-right:7px;padding-bottom:3px}
 
 @font-face {
