@@ -35,7 +35,6 @@ tai {padding-left:3px;padding-right:3px;user-select:all;background-color:#000000
 
 .ii {height:2ex;vertical-align:middle}
 
-
 toc {display:block;border:1px solid black;padding-left:7px;padding-right:7px;padding-bottom:3px}
 
 @font-face {
@@ -48,8 +47,6 @@ font-family:NAMU;
 src:url('/directories/files/fonts/NAMU-1750.ttf');
 unicode-range:U+0410-044F,U+0401,U+0451;
 }
-
-
 
 body,chem .katex {font-family:Cherry Swash,PT Mono,NAMU,Source Sans Pro,Noto Emoji,"M PLUS 1p",Noto Sans Japanese,Inter}
 body {word-break:break-word}
