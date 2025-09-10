@@ -26,6 +26,8 @@ wspl {display:block;white-space:pre-line}
 .vat {vertical-align:top}
 
 gb1 {user-select:all;white-space:nowrap;background-color:#1F883D;color:white;border:1px solid #1F793A;padding:2px;border-radius:3px}
+gb2 {user-select:all;white-space:nowrap;background-color:#1F883D;color:white;border:1px solid #1F793A;padding:2px;border-radius:3px}
+
 .ii {vertical-align:middle} /* bottom , text-bottom */
 
 /*
