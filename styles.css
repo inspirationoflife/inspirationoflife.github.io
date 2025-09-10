@@ -25,7 +25,7 @@ wspl {display:block;white-space:pre-line}
 .w100 {width:100%}
 .vat {vertical-align:top}
 
-gb1 {display:inline-block;user-select:all;white-space:nowrap;background-color:#1F883D;border:1px solid #1F793A;color:white;padding-left:1px;padding-right:1px;margin-top:2px;margin-bottom:2px;border-radius:3px}
+gb1 {display:inline-block;user-select:all;white-space:nowrap;background-color:#1F883D;border:1px solid #1F793A;color:white;padding-left:1px;padding-right:1px;margin-top:1px;margin-bottom:1px;border-radius:3px}
 gb2 {display:inline-block;white-space:nowrap;background-color:#F6F8FA;border:1px solid #D1D9E0;margin-top:10px;margin-bottom:10px;border-radius:3px}
 
 .ii {vertical-align:middle} /* bottom , text-bottom */
