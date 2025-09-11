@@ -1,5 +1,5 @@
 body {
-color:red;
+color:blue;
 font-family:sans-serif;text-size-adjust:none}
 p {margin:0px;text-indent:23px}
 h1, h2, h3, h4, h5, h6 {margin-top:2.5px;margin-bottom:2.5px}
@@ -28,7 +28,7 @@ wspl {display:block;white-space:pre-line}
 .vat {vertical-align:top}
 
 gb1 {padding-left:2px;padding-right:2px;margin-top:0.5px;margin-bottom:0.5px;border-radius:3px;
-display:inline table;
+display:flex run-in;
 white-space:nowrap;background-color:#1F883D;border:1px solid #1F793A;color:white;user-select:all}
 gb2 {padding-left:2px;padding-right:2px;margin-top:0.5px;margin-bottom:0.5px;border-radius:3px;display:inline-block;white-space:nowrap;background-color:#F6F8FA;border:1px solid #D1D9E0}
 
