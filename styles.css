@@ -1,3 +1,6 @@
+.ma ::marker {content:counters(list-item,'.')' '}
+.ma li {list-style-position:inside}
+
 .top-level {
   counter-reset: item;
 }
