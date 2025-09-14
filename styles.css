@@ -1,6 +1,6 @@
 .nested-ol {
   counter-reset: item;
-  list-style: none;
+/*  list-style: none; */
   padding-left: 23px;
 }
 
