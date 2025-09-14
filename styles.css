@@ -7,7 +7,6 @@
 
 .books {
   list-style: books;
-  padding-left: 15ch;
 }
 
 .ma ::marker {content:counters(list-item,'.')' '}
