@@ -1,34 +1,24 @@
-@counter-style books {
-  system: numeric;
-  symbols: "0" "1" "2" "3" "4" "5" "6" "7" "8" "9";
-  prefix: "Book ";
-  suffix: ": ";
-}
-
-.books {
-  list-style: books;
-}
-
-.ma ::marker {content:counters(list-item,'.')' '}
-/* .ma li {list-style-position:inside} */
-
-.top-level {
+.nested-ol {
   counter-reset: item;
+  list-style: none;
+  padding-left: 0;
 }
-.top-level > li {
+
+.nested-ol li {
+  display: block;
+  position: relative;
+}
+
+.nested-ol li::before {
   counter-increment: item;
+  content: counters(item, ".") ". ";
+  font-weight: bold;
 }
-.top-level > li::before {
-  content: counter(item) ". ";
-}
-.top-level ol {
-  counter-reset: subitem;
-}
-.top-level ol > li {
-  counter-increment: subitem;
-}
-.top-level ol > li::before {
-  content: counter(item) "." counter(subitem) " ";
+
+.nested-ol ol {
+  counter-reset: item;
+  list-style: none;
+  padding-left: 2em;
 }
 
 body {font-family:sans-serif;text-size-adjust:none}
