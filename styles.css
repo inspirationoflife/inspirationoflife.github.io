@@ -1,7 +1,7 @@
 .nested-ol {
   counter-reset: item;
   list-style: none;
-  padding-left: 40px;
+  padding-left: 23px;
 }
 
 .nested-ol li {
@@ -18,7 +18,7 @@
 .nested-ol ol {
   counter-reset: item;
   list-style: none;
-  padding-left: 40px;
+  padding-left: 23px;
 }
 
 body {font-family:sans-serif;text-size-adjust:none}
