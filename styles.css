@@ -1,24 +1,3 @@
-.nested-ol {
-  counter-reset: item;
-/*  list-style: none; */
-/*  padding-left: 23px; */
-}
-
-.nested-ol li {
-/*  display: block; */
-/*  position: relative; */
-}
-
-.nested-ol li::before {
-  counter-increment: item;
-  content: counters(item, ".") ". ";
-}
-
-.nested-ol ol {
-  counter-reset: item;
-/*  list-style: none; */
-/*  padding-left: 23px; */
-}
 
 body {font-family:sans-serif;text-size-adjust:none}
 p {margin:0px;text-indent:23px;line-height:135%}
