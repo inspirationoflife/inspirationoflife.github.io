@@ -5,8 +5,8 @@
 }
 
 .nested-ol li {
-  display: block;
-  position: relative;
+/*  display: block; */
+/*  position: relative; */
 }
 
 .nested-ol li::before {
