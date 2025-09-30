@@ -12,8 +12,8 @@ fieldset,legend {border:1px solid black;border-radius:3px}
 fieldset {margin-top:5px;margin-bottom:5px}
 fieldset:not(:has(> legend)) {padding-top:10px}
 
-summary {list-style-type:'[+]';font-family:monospace}
-details[open] summary {list-style-type:'[-]';font-family:monospace}
+summary {list-style:url("https://fonts.gstatic.com/s/i/short-term/release/materialsymbolsoutlined/visibility/default/48px.svg")}
+details[open] summary {list-style:url("https://fonts.gstatic.com/s/i/short-term/release/materialsymbolsoutlined/visibility_off/default/48px.svg")}
 
 hc {display:block;text-align:center;font-size:200%;font-weight:bold}
 hc2 {display:block;text-align:center;font-size:140%;font-weight:bold}
