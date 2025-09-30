@@ -13,15 +13,14 @@ fieldset {margin-top:5px;margin-bottom:5px}
 fieldset:not(:has(> legend)) {padding-top:10px}
 
 summary::before {
-  content: '[+]';
-  font-family:monospace;
-  font-size:16px;
-  vertical-align:top;
-  margin-right:5px;
+content: '[+]';
+font-family:monospace;
+font-size:16px;
+vertical-align:top;
+margin-right:5px;
 }
-
 details[open] summary::before {
-  content: '[-]';
+content: '[-]';
 }
 
 hc {display:block;text-align:center;font-size:200%;font-weight:bold}
