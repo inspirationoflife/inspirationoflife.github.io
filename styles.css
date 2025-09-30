@@ -12,6 +12,18 @@ fieldset,legend {border:1px solid black;border-radius:3px}
 fieldset {margin-top:5px;margin-bottom:5px}
 fieldset:not(:has(> legend)) {padding-top:10px}
 
+summary::before {
+  content: '[+]';
+  font-family:monospace;
+  font-size:16px;
+  vertical-align:top;
+  margin-right:5px;
+}
+
+details[open] summary::before {
+  content: '[-]';
+}
+
 hc {display:block;text-align:center;font-size:200%;font-weight:bold}
 hc2 {display:block;text-align:center;font-size:140%;font-weight:bold}
 tac {display:block;text-align:center}
