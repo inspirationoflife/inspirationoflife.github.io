@@ -72,8 +72,6 @@ cf {display:block;border:1px solid black;background-color:#FAEBD7;padding:7px}
 .cs {font-family:Church Slavonic}
 ab {text-indent:10%;display:inline-block}
 .tac,[class=tac] td {text-align:center}
-details summary[class~="bu"]::before {content:""}
-details[open] summary[class~="bu"]::before {content:""}
 .bi {background-repeat:no-repeat;background-size:100%}
 table[class=tac] ol,ul {text-align:left}
 table {border-collapse:collapse;display:block;overflow:scroll}
@@ -85,10 +83,6 @@ nw {white-space:nowrap}
 a {text-underline-position:under}
 ol,ul {padding-right:20px}
 min {vertical-align:super;font-size:70%;text-decoration-line:underline}
-details summary::before {content:"Показать: ";font-style:italic}
-details[open] summary::before {content:"Скрыть: ";font-style:italic}
-details summary {list-style-type:"\27A1"}
-details[open] summary {list-style-type:"\2B07"}
 qi::before {content:url('/directories/files/images/svg/quote.svg')}
 qi::after {content:url('/directories/files/images/svg/quote.svg')}
 qb::before {content:url('/directories/files/images/svg/quote.svg')}
