@@ -8,16 +8,16 @@ table {border-collapse:collapse;margin-top:3px;margin-bottom:3px}
 td,th {border:1px solid black;padding:3px}
 [class=vat] td {vertical-align:top}
 
+fieldset,legend {border:1px solid black;border-radius:3px}
+fieldset {margin-top:5px;margin-bottom:5px}
+fieldset:not(:has(> legend)) {padding-top:10px}
+
 hc {display:block;text-align:center;font-size:200%;font-weight:bold}
 hc2 {display:block;text-align:center;font-size:140%;font-weight:bold}
 tac {display:block;text-align:center}
 tar {display:block;text-align:right}
 .tac {text-align:center}
 .tar {text-align:right}
-
-fieldset,legend {border:1px solid black;border-radius:3px}
-fieldset {margin-top:5px;margin-bottom:5px}
-fieldset:not(:has(> legend)) {padding-top:10px}
 
 wspl {display:block;white-space:pre-line}
 .wspl {white-space:pre-line}
