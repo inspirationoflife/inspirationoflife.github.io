@@ -29,6 +29,11 @@ gb2 {padding-left:2px;padding-right:2px;border-radius:3px;white-space:nowrap;bac
 nw {white-space:nowrap}
 .ii {vertical-align:middle} /* bottom , text-bottom */
 
+@font-face {
+font-family:NAMU;
+src:url('/files/fonts/NAMU-1750.ttf');
+}
+
 /*
 tab {padding-left:3px;padding-right:3px;user-select:all;background-color:#000000;color:#FFFFFF;border-radius:3px;white-space:pre;display:block;overflow:scroll}
 tai {padding-left:3px;padding-right:3px;user-select:all;background-color:#000000;color:#FFFFFF;border-radius:3px;white-space:pre;display:inline}
@@ -40,11 +45,6 @@ tai {padding-left:3px;padding-right:3px;user-select:all;background-color:#000000
 font-family:Cherry Swash;
 src:url('/directories/files/fonts/CherrySwash-Regular.ttf');
 unicode-range:U+41-7a;
-}
-@font-face {
-font-family:NAMU;
-src:url('/directories/files/fonts/NAMU-1750.ttf');
-unicode-range:U+0410-044F,U+0401,U+0451;
 }
 
 body,chem .katex {font-family:Cherry Swash,PT Mono,NAMU,Source Sans Pro,Noto Emoji,"M PLUS 1p",Noto Sans Japanese,Inter}
