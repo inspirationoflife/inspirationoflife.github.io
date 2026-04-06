@@ -6,7 +6,7 @@ hr {border:1px solid black}
 
 table {border-collapse:collapse;margin-top:3px;margin-bottom:3px}
 td,th {border:1px solid black;padding:3px}
-table[class=vat] td {vertical-align:top}
+.vat,[class=vat] td {vertical-align:top}
 
 fieldset,legend {border:1px solid black;border-radius:3px}
 fieldset {margin-top:5px;margin-bottom:5px}
@@ -96,7 +96,6 @@ deg90 {transform:rotate(90deg);display:inline-block}
 deg180 {transform:rotate(180deg);display:inline-block}
 deg270 {transform:rotate(270deg);display:inline-block}
 mi {transform:scaleX(-1);display:inline-block}
-.vat,[class=vat] td {vertical-align:top}
 .fn {white-space:nowrap;vertical-align:super;text-decoration:none;user-select:none;font-weight:normal}
 
 .mn,ul[class=mn] li {list-style-type:none}
