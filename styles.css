@@ -2,7 +2,6 @@ body {font-family:sans-serif;text-size-adjust:none}
 p {margin:0px;text-indent:23px;line-height:135%}
 h1, h2, h3, h4, h5, h6 {margin-top:2.5px;margin-bottom:2.5px}
 ul, ol {margin-top:2.5px;margin-bottom:2.5px;line-height:135%}
-h1 + ul, h1 + ol, h2 + ul, h2 + ol, h3 + ul, h3 + ol, h4 + ul, h4 + ol, h5 + ul, h5 + ol, h6 + ul, h6 + ol, ul + h1, ol + h1, ul + h2, ol + h2, ul + h3, ol + h3, ul + h4, ol + h4, ul + h5, ol + h5, ul + h6, ol + h6 {margin-top:0px}
 hr {border:1px solid black}
 
 table {border-collapse:collapse;margin-top:3px;margin-bottom:3px}
