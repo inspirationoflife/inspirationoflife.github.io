@@ -5,6 +5,9 @@ h1, h2, h3, h4, h5, h6 {margin-top:2.5px;margin-bottom:2.5px}
 ul, ol {margin-top:2.5px;margin-bottom:2.5px;line-height:135%}
 */
 hr {border:1px solid black}
+.f200 {font-size:200%}
+
+
 
 table {border-collapse:collapse;margin-top:3px;margin-bottom:3px}
 td,th {border:1px solid black;padding:5px}
@@ -92,7 +95,6 @@ lt,.lt {text-decoration-line:line-through}
 ov,.ov {text-decoration-line:overline}
 subs {vertical-align:sub;font-size:70%}
 sups {vertical-align:super;font-size:70%}
-.f200 {font-size:200%}
 kn {font-kerning:none}
 deg90 {transform:rotate(90deg);display:inline-block}
 deg180 {transform:rotate(180deg);display:inline-block}
